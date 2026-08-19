@@ -1,5 +1,7 @@
 # soc-analyst-writeups
 
+- [SOC Level 1 — Path Completion Reflection](./SOC_Level1_Path_Completion_Reflection.md)
+
 ## Methodology
 - [My Phishing Alert Investigation Process](./phishing-investigation-methodology.md)
 
