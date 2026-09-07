@@ -1,6 +1,7 @@
 # soc-analyst-writeups
 
 - [SOC Level 1 — Path Completion Reflection](./SOC_Level1_Path_Completion_Reflection.md)
+- - [ARP Poisoning & MITM — Self-Directed Home Lab](./network-forensics/arp-mitm-home-lab.md)
 - ## Projects
 - [Phishing Email Analyzer (Python)](./projects/phishing-analyzer/) — automates header analysis, spoofing detection, and VirusTotal threat intel lookup
 
